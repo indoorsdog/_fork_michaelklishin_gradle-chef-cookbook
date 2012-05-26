@@ -33,7 +33,7 @@
   "groupings": {
   },
   "recipes": {
-    "gradle::tarball": "description",
+    "gradle::tarball": "description"
   },
   "version": "0.0.1"
 }
